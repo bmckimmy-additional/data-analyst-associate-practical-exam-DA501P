@@ -3,6 +3,8 @@ This Project was part of the DataCamp Data Analyst Associate Certification which
 
 Data Analyst Associate Certificate (Obtained: 14 January 2024. Expires: 13 January 2026.): https://www.datacamp.com/certificate/DAA0013031859249
 
+LinkedIn Post: https://www.linkedin.com/feed/update/urn:li:activity:7152522740283916288/
+
 # Practical Exam: Grocery Store Sales
 
 FoodYum is a grocery store chain that is based in the United States.
