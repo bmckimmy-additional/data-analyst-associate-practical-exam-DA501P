@@ -19,8 +19,10 @@ The data is available in the table `products`.
 
 The dataset contains records of customers for their last full year of the loyalty program.
 
-## Code and Results
+## Code and Outputs
 
-Here is the link to the Google Collab workbook with all of the code and outputs: https://colab.research.google.com/drive/1mvEa6acDViX5qYk3WSNIva976CYxxNqH#scrollTo=A5oAsgHXA5IV 
+DataCamp: https://app.datacamp.com/workspace/w/0dcf2e97-7e16-4d82-a2bc-a00237cc8e43/edit
 
-Here is the link to the Google Docs workbook will all of the code and outputs: https://docs.google.com/document/d/1mo_CEblHQ64G71DmP3Oq0VeQswUgmamB81PzgfIpdOo/edit#heading=h.gr77oxxoi859 
+Google Collab: https://colab.research.google.com/drive/1mvEa6acDViX5qYk3WSNIva976CYxxNqH#scrollTo=A5oAsgHXA5IV 
+
+Google Docs: https://docs.google.com/document/d/1mo_CEblHQ64G71DmP3Oq0VeQswUgmamB81PzgfIpdOo/edit#heading=h.gr77oxxoi859 
