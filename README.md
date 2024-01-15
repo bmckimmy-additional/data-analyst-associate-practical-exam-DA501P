@@ -1,5 +1,5 @@
 # data-analyst-associate-practical-exam-DA501P
-Data Analyst Associate Practical Exam DA501P
+This Project was part of the DataCamp Data Analyst Associate Certification which I passed both the timed exam (DA101) and practical exam (DA501P) on January 13th, 2024. 
 
 # Practical Exam: Grocery Store Sales
 
