@@ -1,5 +1,5 @@
 # data-analyst-associate-practical-exam-DA501P
-This Project was part of the DataCamp Data Analyst Associate Certification which I passed both the timed exam (DA101) and practical exam (DA501P) on January 13th, 2024. 
+This Project was part of the DataCamp Data Analyst Associate Certification which I passed both the timed exam (DA101) and practical exam (DA501P) on January 14th, 2024. 
 
 Data Analyst Associate Certificate (Obtained: 14 January 2024. Expires: 13 January 2026.): https://www.datacamp.com/certificate/DAA0013031859249
 
